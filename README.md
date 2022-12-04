@@ -6,4 +6,4 @@
 
 -Connecting to the database and deleting some tables for one of the test case
 
--Creating an HTML report
+-Creating an HTML report with pytest
